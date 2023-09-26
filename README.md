@@ -11,7 +11,7 @@
 
 ##estatísticas 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos676767_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos676767count=8)
 
 👋 Olá! Sou Carlos H, tenho 19 anos e sou apaixonado por programação. Atualmente, estou estudando JavaScript para aprimorar minhas habilidades 💻.
 

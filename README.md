@@ -12,6 +12,9 @@
 ![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+##tecnologias sendo estudadas recentemente com as que eu ja sei.
+![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 👋 Olá! Sou Carlos H, tenho 19 anos e sou apaixonado por programação. Atualmente, estou estudando JavaScript para aprimorar minhas habilidades 💻.
 
 😄 Meu sorriso constante reflete minha paixão pela vida e tecnologia. Acredito que um ambiente positivo é essencial para o sucesso.

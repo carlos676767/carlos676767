@@ -15,6 +15,7 @@
 ### tecnologias sendo estudadas recentemente com as que eu ja sei.
 
 ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 👋 Olá! Sou Carlos H, tenho 19 anos e sou apaixonado por programação. Atualmente, estou estudando JavaScript para aprimorar minhas habilidades 💻.
 

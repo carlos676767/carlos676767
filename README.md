@@ -12,17 +12,16 @@
 ![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### tecnologias sendo estudadas recentemente com as que eu ja sei.
+### Recently, I have been studying new technologies to complement the ones I already know. 📚🚀: 
 
 ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+👋 Hello! I'm Carlos H, I'm 20 years old, and I'm passionate about programming. Currently, I'm studying JavaScript to enhance my skills 💻.
 
-👋 Olá! Sou Carlos H, tenho 20 anos e sou apaixonado por programação. Atualmente, estou estudando JavaScript para aprimorar minhas habilidades 💻.
+😄 My constant smile reflects my passion for life and technology. I believe that a positive environment is essential for success.
 
-😄 Meu sorriso constante reflete minha paixão pela vida e tecnologia. Acredito que um ambiente positivo é essencial para o sucesso.
-
-🚀 Estou empolgado para compartilhar meu progresso e projetos aqui no GitHub. Vamos criar juntos!
-
+🚀 I'm excited to share my progress and projects here on GitHub. Let's create together!
 
 
 

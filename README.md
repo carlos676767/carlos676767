@@ -16,6 +16,7 @@
 ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 👋 Hello! I'm Carlos H, I'm 20 years old, and I'm passionate about programming. Currently, I'm studying JavaScript to enhance my skills 💻.
 

@@ -14,6 +14,7 @@
 ### Recently, I have been studying new technologies to complement the ones I already know. 📚🚀: 
 
 ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![mongo](https://img.shields.io/badge/express-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 👋 Hello! I'm Carlos H, I'm 20 years old, and I'm passionate about programming. Currently, I'm studying JavaScript to enhance my skills 💻.
 
 😄 My constant smile reflects my passion for life and technology. I believe that a positive environment is essential for success.

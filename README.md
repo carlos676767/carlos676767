@@ -12,6 +12,7 @@
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![materialize](https://img.shields.io/badge/Materialize%20CSS-F34277?style=for-the-badge&logo=materialize&logoC)
 
 ### Recently, I have been studying new technologies to complement the ones I already know. 📚🚀: 
 
@@ -21,6 +22,7 @@
 ![msql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![CouchDB](https://img.shields.io/badge/CouchDB-Database-red)
+
 👋 Hello! I'm Carlos H, I'm 20 years old, and I'm passionate about programming. Currently, I'm studying JavaScript to enhance my skills 💻.
 
 😄 My constant smile reflects my passion for life and technology. I believe that a positive environment is essential for success.

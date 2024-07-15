@@ -9,6 +9,7 @@
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-86734a?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Recently, I have been studying new technologies to complement the ones I already know. 📚🚀: 
 

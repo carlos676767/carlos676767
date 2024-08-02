@@ -9,7 +9,7 @@
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-86734a?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 ### Recently, I have been studying new technologies to complement the ones I already know. 📚🚀: 
 
@@ -18,7 +18,6 @@
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![msql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![CouchDB](https://img.shields.io/badge/CouchDB-E02529?style=for-the-badge&logo=apache-couchdb&logoColor=white)
 
 👋 Hello! I'm Carlos H, I'm 20 years old, and I'm passionate about programming. Currently, I'm studying JavaScript to enhance my skills 💻.
 

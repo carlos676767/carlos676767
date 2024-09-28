@@ -13,7 +13,7 @@
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![msql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jest](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jest.svg)
+![jest](https://img.shields.io/badge/Jest-32C3FF?style=for-the-badge&logo=jest&logoColor=white)
 
 
 ### Recently, I have been studying new technologies to complement the ones I already know. 📚🚀: 

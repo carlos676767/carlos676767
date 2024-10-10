@@ -14,11 +14,13 @@
 ![msql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-32C3FF?style=for-the-badge&logo=jest&logoColor=white)
+![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+[![Ngrok Status](https://img.shields.io/badge/ngrok-Online-brightgreen)](https://xxxxx.ngrok.io)
 
 
 ### Recently, I have been studying new technologies to complement the ones I already know. 📚🚀: 
 
-![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 

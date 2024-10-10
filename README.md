@@ -16,7 +16,7 @@
 ![jest](https://img.shields.io/badge/Jest-32C3FF?style=for-the-badge&logo=jest&logoColor=white)
 ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 [![Ngrok](https://img.shields.io/badge/ngrok-Online-brightgreen?logo=ngrok)](https://xxxxx.ngrok.io)
-[![vercel](	https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 
